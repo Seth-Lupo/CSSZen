@@ -1,0 +1,12 @@
+* {
+	display: none
+	margin: 0px;
+	padding: 0px;
+}
+
+.page-wrapper {
+	display: block;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/680/573/large_2x/winter-landscape-view-background-in-paper-cut-style.jpg");
+	width: 100%;
+	height: 200%
+}
